@@ -12,6 +12,10 @@ This repository contains milestone-wise implementation of an AI-enabled recommen
 
 #Milestones
 - Milestone 1: Data Preparation
-(more milestones will be posted once finished)
-
+-Milestone 2: Model Building
+    - Implemented an Item–Item Collaborative Filtering recommendation model  
+    - Trained the model from scratch using cosine similarity on user–item interaction data  
+    - Generated product recommendations based on learned similarity patterns  
+    - Performed initial model tuning by varying top-N recommendations
+(more milestones will be added once completed)
 Each milestone is implemented in a separate folder.
