@@ -11,7 +11,8 @@ This repository contains milestone-wise implementation of an AI-enabled recommen
 - File used: events.csv
 
 #Milestones
-- Milestone 1: Data Preparation
+-Milestone 1: Data Preparation
+
 -Milestone 2: Model Building
     - Implemented an Item–Item Collaborative Filtering recommendation model  
     - Trained the model from scratch using cosine similarity on user–item interaction data  
@@ -21,15 +22,14 @@ This repository contains milestone-wise implementation of an AI-enabled recommen
 Each milestone is implemented in a separate folder.
 
 -Milestone 3: Evaluation and Refinement
-
-## Objective
+-Objective
 Evaluate the trained recommendation model and refine it for better performance.
 
-## Work Done
+-Work Done
 - Evaluated the collaborative filtering model using Precision, Recall, and F1-score
 - Used interaction-based relevance for offline evaluation
 - Refined the model by tuning Top-K recommendations
 - Compared performance for Top-5 and Top-10 recommendations
 
-## Outcome
+-Outcome
 The evaluation demonstrates that increasing the number of recommendations improves recall, validating the effectiveness of the recommendation model.
