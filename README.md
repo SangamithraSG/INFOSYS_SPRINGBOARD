@@ -19,3 +19,17 @@ This repository contains milestone-wise implementation of an AI-enabled recommen
     - Performed initial model tuning by varying top-N recommendations
 (more milestones will be added once completed)
 Each milestone is implemented in a separate folder.
+
+-Milestone 3: Evaluation and Refinement
+
+## Objective
+Evaluate the trained recommendation model and refine it for better performance.
+
+## Work Done
+- Evaluated the collaborative filtering model using Precision, Recall, and F1-score
+- Used interaction-based relevance for offline evaluation
+- Refined the model by tuning Top-K recommendations
+- Compared performance for Top-5 and Top-10 recommendations
+
+## Outcome
+The evaluation demonstrates that increasing the number of recommendations improves recall, validating the effectiveness of the recommendation model.
