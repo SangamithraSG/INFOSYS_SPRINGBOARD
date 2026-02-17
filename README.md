@@ -1,16 +1,16 @@
 Infosys Springboard Virtual Internship 6.0 Batch 11 Project Code:#M-11-3
 
-#Project Title
+# Project Title
 AI-Enabled Recommendation Engine for an E-commerce Platform
 
-#Description
+# Description
 This repository contains milestone-wise implementation of an AI-enabled recommendation engine developed as part of my learning through Infosys Springboard Virtual Internship.
 
-#Dataset
+# Dataset
 - RetailRocket E-commerce Dataset
 - File used: events.csv
 
-#Milestones
+# Milestones
 -Milestone 1: Data Preparation
 
 -Milestone 2: Model Building
@@ -31,5 +31,12 @@ Evaluate the trained recommendation model and refine it for better performance.
 - Refined the model by tuning Top-K recommendations
 - Compared performance for Top-5 and Top-10 recommendations
 
+-Milestone 4 : System Deployment
+○	Objective: Deploy the recommendation engine and integrate it with the platform.
+○	Tasks: Deploy the model to a live environment; integrate the recommendation logic with the e-commerce webapp; conduct final performance and reliability tests.
+
+Evaluation Criteria
+●	Milestone 4: Full recommendation system deployed and integrated; system runs reliably, generating real-time product suggestions.
 -Outcome
 The evaluation demonstrates that increasing the number of recommendations improves recall, validating the effectiveness of the recommendation model.
+# uploaded the Shopwise frontend part.
